@@ -1,0 +1,10 @@
+C:\prj\GBDocService\GBDocService\MFramework\MFramework.Common.Core.Logging\bin\Debug\MFramework.Common.Core.Logging.dll
+C:\prj\GBDocService\GBDocService\MFramework\MFramework.Common.Core.Logging\bin\Debug\MFramework.Common.Core.Logging.pdb
+C:\prj\GBDocService\GBDocService\MFramework\MFramework.Common.Core.Logging\bin\Debug\Common.Logging.dll
+C:\prj\GBDocService\GBDocService\MFramework\MFramework.Common.Core.Logging\bin\Debug\Common.Logging.Log4Net.dll
+C:\prj\GBDocService\GBDocService\MFramework\MFramework.Common.Core.Logging\bin\Debug\log4net.dll
+C:\prj\GBDocService\GBDocService\MFramework\MFramework.Common.Core.Logging\bin\Debug\log4net.xml
+C:\prj\GBDocService\GBDocService\MFramework\MFramework.Common.Core.Logging\obj\Debug\MFramework.Common.Core.Logging.dll
+C:\prj\GBDocService\GBDocService\MFramework\MFramework.Common.Core.Logging\obj\Debug\MFramework.Common.Core.Logging.pdb
+C:\prj\GBDocService\GBDocService\MFramework\MFramework.Common.Core.Logging\bin\Debug\MFramework.Common.Core.Logging.dll.CodeAnalysisLog.xml
+C:\prj\GBDocService\GBDocService\MFramework\MFramework.Common.Core.Logging\bin\Debug\MFramework.Common.Core.Logging.dll.lastcodeanalysissucceeded
